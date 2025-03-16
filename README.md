@@ -30,4 +30,4 @@ To add a new blog post:
 
 ## Customization
 
-Feel free to customize the design by modifying the CSS in `styles.css`.
+Feel free to customize the design by modifying the CSS in `styles.css`
