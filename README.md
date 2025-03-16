@@ -1,4 +1,3 @@
-
 # Andrew's Blog
 
 This is a personal blog website created using HTML, CSS, and JavaScript, hosted with GitHub Pages.
@@ -26,7 +25,7 @@ This is a personal blog website created using HTML, CSS, and JavaScript, hosted 
 To add a new blog post:
 
 1. Create a new HTML file in the `blog/` directory
-2. Use the format of `first-post.html` as a template
+2. Follow the structure of existing blog posts
 3. Update the blog listing on `blog.html` and recent posts on `index.html`
 
 ## Customization
